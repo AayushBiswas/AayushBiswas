@@ -46,6 +46,8 @@
 ### 🔥🔥 Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [Tailwind VS Bootstrap. Which is best?](https://dev.to/aayushbiswas/tailwind-vs-bootstrap-which-is-best-4l38)
+- [Github Web Editor](https://dev.to/aayushbiswas/github-web-editor-3m1n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
