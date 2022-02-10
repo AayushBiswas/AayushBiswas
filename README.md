@@ -12,7 +12,7 @@
 - 🌱 I am a 11 years old student learning web development and programming. I am also a Content Creator
 - 🔭 Check out my blog: [Aayush Blog](https://aayush-blog.netlify.app/)!
 - 🥅 2022 Goals: Learn more about building apps and softwares
-- 😻 Check out the NFT collection I created: [NFT Persons](https://opensea.io/collection/nftpersons)
+- 🧑 Check out the NFT collection I created: [NFT Persons](https://opensea.io/collection/nftpersons)
 
 ### Connect with me:
 
@@ -43,10 +43,12 @@
 
 ---
 
+### 🕔 Latest Blog Post
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
---
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
