@@ -46,6 +46,7 @@
 ### 🔥🔥 Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use MongoDB](https://aayushbiswas.hashnode.dev/mongodb)
 - [Responsive contact form using TailwindCSS](https://aayushbiswas.hashnode.dev/responsive-contact-form-using-tailwindcss)
 - [Tailwind VS Bootstrap. Which is best?](https://aayushbiswas.hashnode.dev/tailwind-vs-bootstrap-which-is-best)
 <!-- BLOG-POST-LIST:END -->
