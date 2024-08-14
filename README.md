@@ -8,7 +8,7 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwindcss%20-informational.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)](https://img.shields.io/badge/Tailwindcss%20-informational.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ## I am a Web developer From India
-- 🌱 I am 13 (and 6 months) older
+- 🌱 I am 15 years older
 - 📷 I am  a Content Creator
 - 🔭 Check out my blog: [Aayush Blog](https://aayush-blog.netlify.app/)!
 - 🥅 2022 Goals: Learn more about building apps and softwares
